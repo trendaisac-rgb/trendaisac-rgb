@@ -12,7 +12,7 @@
 
 ---
 
-# 🧠 Overview
+## 🧠 Overview
 
 I specialize in **AI-powered automation**, designing systems that connect data, models and operations into **high-reliability workflows**.
 
@@ -25,7 +25,7 @@ Founder of **Trend AI**, where we build solutions that are:
 
 ---
 
-# 🧩 Core Expertise
+## 🧩 Core Expertise
 
 ### 🤖 **AI Systems & LLM Engineering**
 - GPT-4/4o/5, Claude, Gemini  
@@ -53,7 +53,7 @@ Founder of **Trend AI**, where we build solutions that are:
 
 ---
 
-# 🚀 Selected Work
+## 🚀 Selected Work
 
 ## 🔹 MedHelp.tech — AI Compliance Assistant  
 AI-powered legal & ethical support for doctors.  
@@ -98,7 +98,7 @@ Real-time ingestion → cleaning → Supabase → RAG.
 
 ---
 
-# 🧬 Trend AI
+## 🧬 Trend AI
 
 **Trend AI** builds automation-first, AI-driven systems:
 
@@ -115,7 +115,7 @@ Our mission:
 
 ---
 
-# 📫 Contact
+## 📫 Contact
 
 **🌐 Website:** https://trendai.site  
 **📧 Email:** trendaisac@gmail.com  
