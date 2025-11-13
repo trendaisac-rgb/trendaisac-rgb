@@ -118,6 +118,7 @@ Our mission:
 ## 📫 Contact
 
 **🌐 Website:** trendai.com.br
+
 **📧 Email:** trendaisac@gmail.com  
 
 <br>
