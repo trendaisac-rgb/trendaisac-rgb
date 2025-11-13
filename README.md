@@ -1,130 +1,125 @@
-<img src="https://i.imgur.com/HT8Q4Cq.png" width="160" align="right" />
+<h3 align="center"><em>“Simplicity is the ultimate sophistication.”</em><br>— Leonardo da Vinci</h3>
 
-# Hi 👋, I'm Douglas — Automation Engineer & AI Workflow Architect
+<h1 align="center">Douglas Pinto</h1>
+<h3 align="center">AI Automation Engineer & Workflow Architect ⚙️🤖</h3>
 
-I design and build **intelligent automation systems** that replace manual processes, integrate AI into real products, and help companies scale faster and safer.
+<p align="center">
+  I architect intelligent systems that transform complex operations into scalable, elegant automations.<br>
+  300+ production-grade workflows delivered across healthcare, SaaS, e-commerce and AI-first companies.
+</p>
 
-Over the last years, I have delivered **200+ production-grade automations** for clients in healthcare, SaaS, e-commerce, marketing and AI-enabled businesses.
-
-Founder of **Trend AI**, where we build automated workflows, AI agents, scrapers, RAG systems and high-impact content pipelines for clients across the world.
-
----
-
-# ⚡ About Me
-
-- **Automation Engineer & AI Workflow Architect**  
-- **200+ workflows delivered**: scrapers, RAG engines, agents, CRM pipelines, viral content generators, WhatsApp automation, Supabase ETL, API integrations  
-- **90-day free warranty** for all client projects  
-- Specialized in **secure, scalable and fully automated AI solutions**  
-- Focused on **real business outcomes**: cost reduction, time savings and operational efficiency  
-- Available for **worldwide freelance & contract work**
+<br>
 
 ---
 
-# 🧠 Tech Stack & Competencies
+# 🧠 Overview
 
-### **AI & LLMs**
-- OpenAI API (GPT-4/4o/5), Anthropic, Gemini  
-- RAG architectures (Hybrid search, embeddings, context orchestration)  
-- LangChain, LlamaIndex  
-- LoRA fine-tuning (when needed)  
+I specialize in **AI-powered automation**, designing systems that connect data, models and operations into **high-reliability workflows**.
 
-### **Automation & Workflows**
-- **n8n (Advanced)** – 200+ flows  
-- Make.com, Zapier (expert)  
-- Webhooks, queues, rate-limiting, error-safe workflows  
+Founder of **Trend AI**, where we build solutions that are:
 
-### **Backend & Cloud**
-- **Supabase** (Postgres, SQL, Edge Functions, Row Level Security)  
-- Google Cloud, Firebase, Cloud Functions  
+- ⚡ **Simple by design**  
+- 🧱 **Robust in production**  
+- 🔄 **Fully automated**  
+- 📈 **Operationally transformative**
+
+---
+
+# 🧩 Core Expertise
+
+### 🤖 **AI Systems & LLM Engineering**
+- GPT-4/4o/5, Claude, Gemini  
+- RAG architectures  
+- AI agents  
+- Document intelligence  
+- Embeddings pipelines  
+
+### ⚙️ **Workflow Automation**
+- n8n (Advanced) – 200+ flows  
+- Make.com, Zapier  
+- Error handling, retries, queues  
+- High-availability workflows  
+
+### 🗄️ **Backend, Data & Cloud**
+- Supabase (Postgres, RLS, Edge Functions)  
+- Google Cloud & Firebase  
 - Node.js, Python  
+- Complex ETL pipelines  
 
-### **Scraping & Data**
-- Apify (custom actors), Playwright, Puppeteer  
-- Browserless, proxies, anti-bot strategies  
-- Automated ETL pipelines  
-
-### **Content & Media Automation**
-- Viral video generation (Wavespeed + fal.ai + FFmpeg)  
-- Article & blog pipelines (RAG + embeddings + Supabase)  
-- Social media automation (X, TikTok, Instagram)
+### 🕸️ **Scraping & Data Acquisition**
+- Apify custom actors  
+- Playwright, Puppeteer  
+- Anti-bot strategies, proxies  
 
 ---
 
-# 🏆 Featured Projects
+# 🚀 Selected Work
 
-### 🔹 **MedHelp.tech (SaaS)**
-AI-powered compliance assistant for doctors.  
-- 500+ active doctors  
-- Legal, ethical, and communication guidance  
-- WhatsApp automation + RAG system + Supabase embeddings  
-
-### 🔹 **Clinibot — AI WhatsApp Concierge**
-Automation system running in 70+ clinics.  
-- 43% reduction in no-shows  
-- 38% increase in returning patients  
-- Full appointment lifecycle automation (reminders, follow-ups, feedback)
-
-### 🔹 **FestBot — Event Venue Automation SaaS**
-End-to-end automation for event venues:  
-- Lead capture → qualification → auto-followup  
-- Contract generator, reminders and CRM sync  
-- Saves 60–100 hours/month for clients
-
-### 🔹 **PetZap — Veterinary Automation Platform**
-WhatsApp-based AI assistant for vet clinics:  
-- Scheduling, reminders, post-consultation instructions  
-- Payment notifications  
-- High-retention automation flows
-
-### 🔹 **RAG Agent Engine**
-Flexible Retrieval-Augmented Generation engine built with Supabase:  
-- Multi-source ingestion  
-- Embeddings pipeline  
-- Document ranking + GPT validation  
-- Used for blog automation & compliance systems
-
-### 🔹 **Viral Video Factory**
-Automated short-form content generator:  
-- Used by creators to scale YouTube Shorts, Reels, TikTok  
-- Wavespeed + fal.ai + automated captions  
-- Fully orchestrated in n8n
-
-### 🔹 **Scrapers & Data Pipelines**
-- Reddit scraper  
-- TikTok + Instagram trend discovery  
-- News monitoring system  
-- Multi-source ingestion → cleaning → storage → RAG
+## 🔹 MedHelp.tech — AI Compliance Assistant  
+AI-powered legal & ethical support for doctors.  
+- 500+ active professionals  
+- RAG + embeddings + WhatsApp automation  
 
 ---
 
-# 🧩 Trend AI — What We Build
+## 🔹 Clinibot — WhatsApp AI Concierge  
+AI assistant operating in **70+ clinics**.  
+- 43% fewer no-shows  
+- 38% more returning patients  
 
-At **Trend AI**, we design reliable, scalable and automation-first systems for companies worldwide:
+---
 
-### ✔️ AI Agents  
-### ✔️ Automated CRMs  
-### ✔️ End-to-end workflows  
-### ✔️ Scrapers & data enrichment  
-### ✔️ Supabase ETL pipelines  
-### ✔️ RAG systems  
-### ✔️ WhatsApp automation  
-### ✔️ Viral content engines  
+## 🔹 FestBot — Automation for Event Venues  
+Lead → qualification → follow-up → contract → reminders.  
+- Saves **60–100 hours/month**  
 
-Our mission is simple:  
-**Turn manual operations into intelligent, automated, revenue-driving systems.**  
+---
+
+## 🔹 PetZap — Veterinary AI Automation  
+Clinical instructions, scheduling, payments & retention flows.
+
+---
+
+## 🔹 Supabase RAG Engine  
+Multi-source ingestion → embeddings → hybrid search → GPT validation.  
+Built for compliance, blog automation and structured knowledge systems.
+
+---
+
+## 🔹 Viral Video Factory  
+Short-form content automation pipeline  
+(Wavespeed → fal.ai → captioning → posting → analytics).
+
+---
+
+## 🔹 Scrapers & Data Pipelines  
+Reddit • TikTok • Instagram • News • Competitors  
+Real-time ingestion → cleaning → Supabase → RAG.
+
+---
+
+# 🧬 Trend AI
+
+**Trend AI** builds automation-first, AI-driven systems:
+
+- 🤖 AI Agents  
+- 🔍 RAG systems  
+- 📚 Supabase ETL  
+- 📨 WhatsApp automation  
+- 🔄 Multi-step workflows  
+- 🎥 Content generation engines  
+- 🕸️ Scraping & enrichment pipelines  
+
+Our mission:  
+**Turn manual operations into intelligent, automated systems that scale.**
 
 ---
 
 # 📫 Contact
 
 **🌐 Website:** https://trendai.site  
-**💼 Upwork:** *add your link here*  
-**📧 Email:** contato@trendai.site  
-**🐦 X / Twitter:** @douglas_ai (ou seu handle)  
-**💬 WhatsApp Business:** *se quiser colocar*  
+**📧 Email:** trendaisac@gmail.com  
 
----
+<br>
 
-### Douglas | Automation Engineer & Workflow Architect  
-
+<h4 align="center">Douglas | Automation Engineer & Workflow Architect</h4>
